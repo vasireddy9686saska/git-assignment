@@ -1,6 +1,6 @@
 Review
 
-Assigned Tutorial Learn Git Branching Based on - Last Name - Kaur
+Assigned Tutorial Learn Git Branching Based on - Last Name - Thakkar
 
 Branching is the modern version feature in the Git. In this we are using some commands to move from one branch to another.
 Git stores branches as a reference to commit and it has two types i.e  Main and Remote.  I completed ‘Main’ task according to the instructions. 
@@ -46,8 +46,6 @@ A.	Rebasing over 9000 times – For multiplying multiple branches we can use reb
 B.	Multiple parents – It can be used to merge commits of multiple parents.
 C.	Branch Spaghetti – In this we can use rebase to give branches to commits.
 
-
-khushboo Lohat: I am from India. currently i am studying in saskatoon campus.
-
+Kushal Thakkar :I am a student at Saskatchewan Polytechnic from India.
 
 
