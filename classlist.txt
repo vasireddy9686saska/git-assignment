@@ -49,5 +49,5 @@ C.	Branch Spaghetti – In this we can use rebase to give branches to commits.
 
 khushboo Lohat: I am from India. currently i am studying in saskatoon campus.
 
-Pratap vasireddy saska polytechnic editing this file as part of assignemnt
+Pratap vasireddy saska polytechnic editing this file as part of assignemnt.
 
