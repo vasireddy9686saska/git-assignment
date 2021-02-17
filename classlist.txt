@@ -53,6 +53,8 @@ Kushal Thakkar :I am a student at Saskatchewan Polytechnic from India.
 
 
 I learn from https://training.github.com/
+&
+https://training.github.com/downloads/github-git-cheat-sheet/
 
 Browse and inspect the evolution of project files
 
